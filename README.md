@@ -1,5 +1,3 @@
-Sendit 🚀Sendit 🚀Sendit 🚀
-
 # Likeit-Solana 
 
 Likeit  is a peer feedback system built on Solana where developers submit projects (project name and project URL), and users can like or dislike them. Feedback is stored on-chain in a public, transparent account, allowing anyone to view likes and dislikes. This ensures developers receive visible, immutable feedback on their respective projects.

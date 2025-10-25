@@ -4,9 +4,9 @@ Likeit  is a peer feedback system built on Solana where developers submit projec
 
 ## User Story
 
-As a developer, I want to submit my project and receive likes or dislikes on-chain, so that I can gain feedback visible to everyone.
-As a User, I want to like or dislike a project so that I can give valuable feedback
-As a developer, I want to be able to view total like count so that I can know how good my project is
+- As a developer, I want to submit my project and receive likes or dislikes on-chain, so that I can gain feedback visible to everyone.
+- As a User, I want to like or dislike a project so that I can give valuable feedback
+- As a developer, I want to be able to view total like count so that I can know how good my project is
 
 
 ### Acceptance Criteria
